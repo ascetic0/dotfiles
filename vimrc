@@ -1,0 +1,12 @@
+set number
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set clipboard=unnamedplus
+set mouse=a
+set autowrite
+set autoread
+set bg=dark
+set autoindent
+set cindent
+set smartindent
